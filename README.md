@@ -1,4 +1,4 @@
-Mulesoft_gateway
+Mulesoft_gateway (a API Management Gateway for RESTful APIs.)
 ================
 The project should include a README.md that describes your design approach and provides any instructions needed for running the gateway. End to end tests that exercise the gateway are greatly encouraged.
 
